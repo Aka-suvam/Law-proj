@@ -3,7 +3,7 @@ import partnership from "../../../assets/partnershipLaw.svg";
 
 import realstate from "../../../assets/Realestate.svg";
 import Business2 from "../../../assets/Business2.svg";
-import landlord from "../../../assets/landlord.svg";
+import Landlord from "../../../assets/Landlord.svg";
 import Elder from "../../../assets/Elder.svg";
 
 const Area=()=>{
@@ -21,7 +21,7 @@ const Area=()=>{
 
         <img src={Business2} alt="Business-pic"/>
         <p className="buss">BUSINESS LAW</p>
-        <img src={landlord} alt="landlord-pic"/>
+        <img src={Landlord} alt="landlord-pic"/>
         <p className="landlord">LANDLORD DISPUTES</p>
         <img src={Elder} alt="elder-pic"/>
         <p className="elder">ELDER ABUSE</p>
