@@ -1,8 +1,8 @@
 import logo_one from "../../../assets/igstudiologo.svg"
 import Instra from  "../../../assets/instra-Icon.svg"
-import facebook from "../../../assets/face-icon.svg"
-import x from "../../../assets/x.icon.svg"
-import p from "../../../assets/pireted-icon.svg"
+import facebook from "../../../assets/facebook.svg"
+import Xcon from "../../../assets/Xcon.svg"
+import pireted from "../../../assets/pireted.svg"
 
 const Footer=()=>{
     return (
@@ -21,8 +21,8 @@ const Footer=()=>{
     <div className="logo_icons">
      <img src={Instra} alt="icon"/>
      <img src={facebook} alt="icon"/>
-     <img src={x} alt="icon"/>
-     <img src={p} alt="icon"/>
+     <img src={Xcon} alt="icon"/>
+     <img src={pireted} alt="icon"/>
     </div>
       <div className="small_text">
         <p>© 2020 Acme. All right reserved.</p>
