@@ -1,4 +1,4 @@
-This is made for practicig React.js  concept . This website is not fully responsive . 
+<h1>This is made for practicig React.js  concept . This website is not fully responsive . <h1/>
 
 run-these command to run this project 
 --1)npm install----run this command to install all the node_module dependency 
